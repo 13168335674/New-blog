@@ -38,8 +38,8 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: "博客",
-        link: "",
+        text: "Github",
+        link: "https://github.com/13189449986",
       },
       {
         text: "掘金",

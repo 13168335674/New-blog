@@ -21,6 +21,7 @@
     "vuepress": "^1.0.0"
   },
   "dependencies": {
+    "vuepress-plugin-live2d": "^0.0.7",
     "webpack": "^4.41.5"
   }
 }

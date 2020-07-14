@@ -8,6 +8,7 @@
     "email": "569643843@qq.com"
   },
   "repository": "https://github.com/13189449986/New-blog.git/wuhen",
+  "homepage": "https://13189449986.github.io/New-blog",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",

@@ -18,6 +18,7 @@ module.exports = {
    */
   head: [
     ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "referrer", content: "no-referrer" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",
@@ -86,6 +87,10 @@ module.exports = {
         {
           title: "[分享] SSH配置别名登录与免密登录",
           path: "[分享]SSH配置别名登录与免密登录",
+        },
+        {
+          title: "[记录]我的日常随笔",
+          path: "[记录]我的日常随笔",
         },
       ],
     },
